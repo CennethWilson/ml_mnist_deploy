@@ -1,5 +1,5 @@
 flask
 pillow
 tensorflow
-opencv-python
+opencv-python-headless
 numpy
