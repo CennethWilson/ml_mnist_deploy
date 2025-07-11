@@ -5,6 +5,7 @@ from PIL import Image
 import io
 import cv2
 import base64
+import os
 
 model = models.load_model("mnist_model.keras")
 app = Flask(__name__)
